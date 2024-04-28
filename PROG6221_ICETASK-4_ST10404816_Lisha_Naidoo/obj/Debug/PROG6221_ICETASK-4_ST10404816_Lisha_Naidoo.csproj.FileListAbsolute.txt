@@ -1,0 +1,15 @@
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\bin\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.exe.config
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\bin\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.exe
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\bin\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.pdb
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.csproj.AssemblyReference.cache
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\MainWindow.g.cs
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\App.g.cs
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo_MarkupCompile.cache
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo_MarkupCompile.lref
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\MainWindow.baml
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.g.resources
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK_4_ST10404816_Lisha_Naidoo.Properties.Resources.resources
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.csproj.GenerateResource.cache
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.csproj.CoreCompileInputs.cache
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.exe
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 4\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-4_ST10404816_Lisha_Naidoo.pdb
