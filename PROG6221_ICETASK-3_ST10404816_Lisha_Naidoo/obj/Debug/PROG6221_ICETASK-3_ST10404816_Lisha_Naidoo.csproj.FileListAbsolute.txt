@@ -1,0 +1,7 @@
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\bin\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.exe.config
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\bin\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.exe
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\bin\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.pdb
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.csproj.AssemblyReference.cache
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.csproj.CoreCompileInputs.cache
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.exe
+C:\Users\Lisha\OneDrive\Documents\Varsity College\PROG6221\ICE TASKS\ICE TASK 3\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo\obj\Debug\PROG6221_ICETASK-3_ST10404816_Lisha_Naidoo.pdb
